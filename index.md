@@ -45,13 +45,13 @@ This lab focused on modern JavaScript practices like using arrow functions, dest
 
 ## Project Images
 
-<img src="/assets/images/p3-tool.png" alt="Coin Tool Screenshot" style="max-width: 100%; border-radius: 8px; margin-bottom: 1rem;" />
+<img src="assets/images/p3-coincalculator.png" alt="Coin Tool Screenshot" style="max-width: 100%; border-radius: 8px; margin-bottom: 1rem;" />
 
 ---
 
 ## Lab Images
 
-<img src="/assets/images/lab-03-modular.png" alt="Lab Modular Screenshot" style="max-width: 100%; border-radius: 8px; margin-bottom: 1rem;" />
+<img src="assets/images/lab-03.png" alt="Lab Modular Screenshot" style="max-width: 100%; border-radius: 8px; margin-bottom: 1rem;" />
 
 ---
 
